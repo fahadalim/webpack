@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+}
+.redcolor{
+    color: tomato;
+}
+.bgheading{
+    background-color: rgb(247, 222, 154);
+}
+.mariginauto{
+    margin: auto;
+}
+#logo{
+    width:150px;
+    height: 100px;
+}
+#root{
+    display: flex;
+};
